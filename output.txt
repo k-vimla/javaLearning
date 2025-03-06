@@ -1,2 +1,28 @@
-Enter a number: 
-You Entered: 23451
+Enter the root node value
+Do oyu want to enter left of 67
+Enter the value of the left of 67
+Do oyu want to enter left of 3
+Enter the value of the left of 3
+Do oyu want to enter left of 7
+Do you want to enter the right of 7
+Do you want to enter the right of 3
+Enter the value of the right of 3
+Do oyu want to enter left of 10
+Do you want to enter the right of 10
+Do you want to enter the right of 67
+Enter the value of the right of 67
+Do oyu want to enter left of 4
+Enter the value of the left of 4
+Do oyu want to enter left of 12
+Do you want to enter the right of 12
+Do you want to enter the right of 4
+Enter the value of the right of 4
+Do oyu want to enter left of 1
+Do you want to enter the right of 1
+67
+	3
+		7
+		10
+	4
+		12
+		1
